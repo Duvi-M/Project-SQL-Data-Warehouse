@@ -70,5 +70,4 @@ data-warehouse-project/
 │   ├── gold/            # Analytical models (fact & dimension tables)
 ├── tests/               # Data quality and validation scripts
 ├── README.md            # Project documentation
-├── LICENSE
 └── .gitignore
